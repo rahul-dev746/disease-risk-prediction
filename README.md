@@ -1,1 +1,1 @@
-# smart-water-quality-prediction
+# disease-risk-prediction
